@@ -2,6 +2,13 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
+/*
+Names:
+Joel Kalich
+Jonathyn Komorita
+Jake McGillicuddy
+*/
+
 public class Minesweeper {
 
 	public static void main(String[] args) {
